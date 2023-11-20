@@ -1,6 +1,8 @@
 这是HLearn作者编写的Fast Cover Tree的C++实现，但还未实现单点插入和删除。
 
 11月16日：尝试调式ing...
+11月18日：尝试调试ing...
+11月19日：尝试调试ing...调试无果，遂放弃！
 
 This is a first pass implementation of a cover tree in c/c++.  It is
 somewhat optimized and not terribly robust.  
